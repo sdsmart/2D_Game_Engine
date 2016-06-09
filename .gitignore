@@ -1,0 +1,10 @@
+Debug/
+Game/Debug/
+packages/
+.vs/
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.config
+*.log
