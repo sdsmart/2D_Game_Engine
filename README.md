@@ -1,5 +1,5 @@
-About This Repo
-===============
+About This Repository
+=====================
 This repository is a 2D Game Engine built with the Allegro c++ library.
 
 It is meant to be a starting platform to build and customize 2D games.
