@@ -12,8 +12,7 @@ them on the screen.
 
 The Allegro API can be found here: [Allegro API](http://liballeg.org/a5docs/trunk)
 
-Build Instructions
-------------------
+### Build Instructions
 This project was originally built within Visual Studio Community 2016.
 
 You can install Allegro using Visual Studio's built in Nuget Package Manager.
@@ -23,8 +22,7 @@ Alternatively you can install Allegro manually and link the library with
 the project to build it.
 [Allegro Wiki](https://wiki.allegro.cc/index.php?title=Getting_Started)
 
-Run Instructions
-----------------
+### Run Instructions
 To run this project, simply run the project in Visual Studio or run the executable created after compiling.
 
 While running, a black screen should appear. If f1 is pressed, statistics
