@@ -1,6 +1,6 @@
 2D Game Engine Built With Allegro
 ---------------------------------
-This project is a 2D Game Engine built with the Allegro c++ library.
+This project is a 2D game engine built with the Allegro c++ library.
 
 It is meant to be a starting platform to build and customize 2D games.
 
