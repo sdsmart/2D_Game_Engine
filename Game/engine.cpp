@@ -105,7 +105,7 @@ Engine::~Engine()
 // *****************************************************
 void Engine::update()
 {
-	// ... Updating game ...
+	// ... Update game logic here ...
 
 	// Toggling debug_mode if the toggle button is pressed.
 	// However, if the toggle button is being held, then debug mode
@@ -135,7 +135,7 @@ void Engine::update()
 // *****************************************************
 void Engine::render()
 {
-	// ... Rendering game ...
+	// ... Render game here ...
 
 	// Rendering debug information if flag set to true.
 	if (debug_mode)
