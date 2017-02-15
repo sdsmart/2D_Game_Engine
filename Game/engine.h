@@ -43,6 +43,6 @@ class Engine
 		Engine();
 		~Engine();
 
-		// PRIVATE MEMBER FUNCTIONS
+		// PUBLIC MEMBER FUNCTIONS
 		void run_game();
 };
